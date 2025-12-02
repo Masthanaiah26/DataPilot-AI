@@ -1,5 +1,5 @@
 # DataPilot-AI  
-🔗 **Live App:** https://data-pilot-ai-framework--masthanaiahv200.replit.app/
+🔗 **Live App:** https://data-pilot-ai-framework--masthanaiahv200.replit.app
 
 DataPilot-AI is an AI-powered platform for fast and intelligent data cleaning, transformation, and dashboard creation.  
 Upload your dataset, clean it with smart suggestions, generate visual dashboards, and query your data using the built-in AI assistant.  
